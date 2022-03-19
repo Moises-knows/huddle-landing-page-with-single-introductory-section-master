@@ -139,7 +139,10 @@ footer
 
 @media(max-width:850px)
 {   
-
+    .logo
+    {
+       width:35%;
+    }
     .main-content
     {
         align-items: center;

@@ -17,5 +17,5 @@ Your challenge is to build out this landing page from the designs provided in th
 ## Solution 
 Link to website
 
-https://moises-knows.github.io/huddle-landing-page-with-single-introductory-section-master/
+https://moises-devs.github.io/huddle-landing-page-with-single-introductory-section-master/
 
